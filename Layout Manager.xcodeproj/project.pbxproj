@@ -26,6 +26,7 @@
 		36E50D372C466BAF00C6BA1B /* Double+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E50D332C466BAE00C6BA1B /* Double+Extensions.swift */; };
 		36E50D382C466BAF00C6BA1B /* UIColor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E50D342C466BAE00C6BA1B /* UIColor+Extensions.swift */; };
 		36E50D392C466BAF00C6BA1B /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E50D352C466BAE00C6BA1B /* UIView+Extensions.swift */; };
+		82B033902C4699A100D73314 /* BannerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B0338F2C4699A100D73314 /* BannerViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		36E50D332C466BAE00C6BA1B /* Double+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Double+Extensions.swift"; sourceTree = "<group>"; };
 		36E50D342C466BAE00C6BA1B /* UIColor+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extensions.swift"; sourceTree = "<group>"; };
 		36E50D352C466BAE00C6BA1B /* UIView+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
+		82B0338F2C4699A100D73314 /* BannerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				36E50D202C464DE400C6BA1B /* ViewModel.swift */,
+				82B0338F2C4699A100D73314 /* BannerViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				36E50D382C466BAF00C6BA1B /* UIColor+Extensions.swift in Sources */,
 				36E50D2E2C4655B500C6BA1B /* SpacerCell.swift in Sources */,
 				36E50D2C2C46559300C6BA1B /* DeliveryCell.swift in Sources */,
+				82B033902C4699A100D73314 /* BannerViewModel.swift in Sources */,
 				36E50D372C466BAF00C6BA1B /* Double+Extensions.swift in Sources */,
 				36D29F7A2C467D6200DBDEC1 /* ImageCell.swift in Sources */,
 				36E50D112C464DC700C6BA1B /* ViewController.swift in Sources */,

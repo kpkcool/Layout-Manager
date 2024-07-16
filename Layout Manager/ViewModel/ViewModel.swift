@@ -15,12 +15,6 @@ protocol CustomViewModel {
     var type: String { get }
 }
 
-struct BannerViewModel: CustomViewModel {
-    let type = "banner"
-    let title: String
-    let subtitle: String
-    let image: String?
-}
 
 struct SpacerViewModel: CustomViewModel {
     let type: String = "spacer"
